@@ -17,6 +17,20 @@ merge([1, 3, 5], [6, 4, 2], [7, 9, 11]);
 // Output: [1, 2, 3, 4, 5, 6, 7, 9, 11]
 ```
 
+## Setup Instructions
+
+Clone the repo:
+
+```
+git clone https://github.com/JamesTanakrit/typescript-merge-unit-test.git
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
 ## Running Tests
 
 Run tests with Jest:
